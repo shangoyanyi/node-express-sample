@@ -1,0 +1,14 @@
+{
+  "name": "node-express-example",
+  "version": "0.0.1",
+  "description": "",
+  "main": "server.js",
+  "repository": "",
+  "author": "shangoyanyi@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "express": "~4.0.0",
+    "mongoose":"~3.8.22",
+    "body-parser":"~1.0.1"
+  }
+}
